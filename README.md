@@ -20,10 +20,7 @@
 
 ### 👩‍💻 Sobre mim
 
-Experiência na criação de desenhos técnicos e modelos 3D para projetos industriais.  
-Tenho domínio em ferramentas CAD como **AutoCAD, FreeCAD, Inventor e Rhinoceros**, além de utilizar **KeyShot** para renderizações realistas.
-
-Busco unir **design mecânico + programação**, criando soluções eficientes e inovadoras.
+Experiência na criação de desenhos técnicos e modelos 3D para projetos industriais. Tenho domínio em ferramentas CAD como **AutoCAD, FreeCAD, Inventor e Rhinoceros**, além de utilizar **Blender e KeyShot** para renderizações realistas. Busco unir **design mecânico + programação**, criando soluções eficientes e inovadoras.
 
 ---
 
