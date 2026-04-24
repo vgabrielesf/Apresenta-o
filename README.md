@@ -38,6 +38,6 @@ Busco unir **design mecânico + programação**, criando soluções eficientes e
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vitoriagsilvaf&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriagsilvaf&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vgabrielesf&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgabrielesf&layout=compact&theme=dracula&hide_border=true"/>
 </p>
